@@ -1,5 +1,5 @@
 
-RunningMedian libraray v0.2.00 from:
+RunningMedian library v0.2.00 from:
   
   http://playground.arduino.cc/Main/RunningMedian
 
